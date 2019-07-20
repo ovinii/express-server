@@ -1,0 +1,22 @@
+{
+  "name": "express-server",
+  "version": "1.0.0",
+  "description": "Projeto base com Express.js",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "express-server"
+  },
+  "keywords": [
+    "express",
+    "node.js"
+  ],
+  "author": "Vinícius Nascimento",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
