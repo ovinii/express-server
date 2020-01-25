@@ -2,11 +2,10 @@
 ***** Projeto base com Express.js *****
 ***************************************
 
-__ iniciando projeto
-
+*iniciando projeto
 npm init
 
-__ instalando express
 
-npm install express || yarn add express
-code .
+*instalando express
+npm install express 
+yarn add express
